@@ -1,0 +1,17 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env secrets
+.env
+.env.local
+.env.development
+.env.production
